@@ -1,8 +1,5 @@
 # task8
 
-dashboard:
-![dashboard](https://github.com/user-attachments/assets/dc01a3b3-89a1-44e8-abe5-435541b81329)
-
 Key Insights:
 The West region recorded the highest overall sales, followed by East and Central.
 
