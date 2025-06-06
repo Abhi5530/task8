@@ -1,6 +1,7 @@
 # task8
 
 Key Insights:
+
 The West region recorded the highest overall sales, followed by East and Central.
 
 Sales have shown a gradual increase over time, with noticeable peaks in November and December, likely due to holiday season promotions.
